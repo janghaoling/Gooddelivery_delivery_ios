@@ -1,0 +1,97 @@
+/* 
+  Localizable.strings
+  orderAroundDelivery
+
+  Created by CSS15 on 25/04/19.
+  Copyright © 2019 css. All rights reserved.
+*/
+
+"localize.startedTowardsRestaurant" = "レストランの方に開始";
+"localize.disputeTitle" = "本当にこの注文に異議を申し立てたいのですか？";
+"localize.dispute" = "紛争";
+"localize.Cancel" = "キャンセル";
+"localize.total" = "トータル";
+"localize.reachedRestaurent" = "到達レストラン";
+"localize.orderPickedUp" = "注文を受けました";
+"localize.orderDelivered" = "配送された注文";
+"localize.completed" = "完了しました";
+"localize.sumbit" = "サブミット";
+"localize.newOrderRequest" = "新規注文依頼";
+"localize.waitingNewTask" = "新しいタスクを待っています";
+"localize.cash" = "現金";
+"localize.wallet" = "財布";
+"localize.paymentMode" = "支払いモード";
+"localize.orderDeliveredSucess" = "正常に配信された注文";
+"localize.orderCancelled" = "注文をキャンセルしました";
+"localize.home" = "ホーム";
+"localize.ongoingRequest" = "進行中の要求";
+"localize.liveTasks" = "ライブタスク";
+"localize.completedTask" = "完了したタスク";
+"localize.Done" = "完了";
+"localize.Back" = "バック";
+
+"localize.noDevice" = "デバイスなし";
+"localize.Currency" = "$";
+"localize.manual" = "マニュアル";
+"localize.OK" = "OK";
+"localize.Cancel" = "キャンセル";
+"localize.NA" = "NA";
+"localize.MobileNumber" = "携帯電話番号";
+"localize.next" = "次";
+"localize.selectSource" = "ソースを選択";
+"localize.camera" = "カメラ";
+"localize.photoLibrary" = "フォトライブラリー";
+"localize.cannotMakeCallAtThisMoment" = "現時点で電話をかけることはできません";
+"localize.couldnotOpenEmailAttheMoment" = "現時点ではEメールを開けませんでした";
+"localize.areYouSureWantToLogout" = "ログアウトしますか";
+"localize.continueText" = "持続する";
+"localize.enterMobileNumber" = "携帯電話番号を入力";
+"localize.inValidPhoneNumber" = "有効な携帯電話番号を入力してください";
+"localize.enterOtp" = "OTPを入力";
+"localize.verficationCode" = "検証コード";
+"localize.verficationSentText" = "に送信された確認コードを入力してください";
+"localize.turnOnShift" = "配達のために行くためにスタートシフトをつけてください";
+"localize.shiftStatus" = "シフトステータス";
+"localize.startShift" = "シフト開始";
+"localize.endShift" = "シフト終了";
+"localize.youOwned" = "あなたが所有していた";
+"localize.Profile" = "プロフィール";
+"localize.noticeBoard" = "掲示板";
+"localize.orderHistory" = "注文履歴";
+"localize.termsAndConditions" = "規約と条件";
+"localize.logout" = "ログアウト";
+"localize.liveTasks" = "ライブタスク";
+"localize.waitingForTheNewTask" = "新しいタスクを待っています";
+"localize.newOrderRequest" = "新規注文依頼";
+"localize.accept" = "受け入れる";
+"localize.newTask" = "新しいタスク";
+"localize.selectCountryCode" = "国コードを選択";
+"localize.otpIncorrect" = "不正確なOTP";
+"localize.couldNotReachTheHost" = "ウェブにアクセスできませんでした";
+"localize.amountTobePaid" = "支払われる金額";
+"localize.handovertheAmount" = "稼いだ金額を引き渡してください";
+"localize.orders" = "注文";
+"localize.order" = "注文";
+"localize.noOrders" = "注文なし";
+"localize.breakString" = "ブレーク";
+"localize.selectVehicle" = "続行する車両を選択..";
+"localize.novehicleList" = "車両リストなし";
+"localize.chooseVehicle" = "乗り物を選ぶ";
+"localize.selectVehicleNumber" = "車両番号を選択";
+"localize.enterTheVehicleNumber" = "車両番号を入力";
+"localize.or" = "または";
+"localize.home" = "ホーム";
+"localize.noNotices" = "通知なし";
+"localize.userId" = "ユーザーID";
+"localize.userName" = "ユーザー名";
+"localize.email" = "Eメール";
+"localize.phoneNumber" = "電話番号";
+"localize.update" = "更新";
+"localize.enterName" = "名前を入力";
+"localize.enterEmail" = "メールアドレスを入力して";
+"localize.updatedSuccessfully" = "プロフィール更新済み";
+"localize.NavigationshiftStatus" = "0";
+"localize.todayCompletedTasks" = "今日完了したタスク";
+"localize.noResult" = "結果が見つかりません";
+"localize.orderHistoryNavTitle" = "注文履歴";
+"localize.termsandconditionNavTitle" = "利用規約";

@@ -1,0 +1,97 @@
+/*
+  Localizable.strings
+  orderAroundDelivery
+
+  Created by Steven on 25/04/19.
+  Copyright © 2019 Steven. All rights reserved.
+*/
+
+"localize.startedTowardsRestaurant" = "INICIASTE HACIA EL RESTAURANTE";
+"localize.disputeTitle" = "¿Estás seguro de que quieres abrir una disputa de este pedido?";
+"localize.dispute" = "Disputa";
+"localize.Cancel" = "Cancelar";
+"localize.total" = "Total";
+"localize.reachedRestaurent" = "RESTAURANTE ALCANZADO";
+"localize.orderPickedUp" = "PEDIDO RECOGIDO";
+"localize.orderDelivered" = "PEDIDO ENTREGADO";
+"localize.completed" = "COMPLETADO";
+"localize.sumbit" = "ENVIAR";
+"localize.newOrderRequest" = "Nueva solicitud de pedido";
+"localize.waitingNewTask" = "ESPERANDO UNA NUEVA TAREA";
+"localize.cash" = "EFECTIVO";
+"localize.wallet" = "BILLETERA";
+"localize.paymentMode" = "Método de pago";
+"localize.orderDeliveredSucess" = "Pedido entregado con éxito";
+"localize.orderCancelled" = "Pedido cancelado";
+"localize.home" = "HOME";
+"localize.ongoingRequest" = "Solicitud en curso";
+"localize.liveTasks" = "TAREAS EN VIVO";
+"localize.completedTask" = "Tareas completadas";
+"localize.Done" = "Hecho";
+"localize.Back" = "Atras";
+
+"localize.noDevice" = "Sin dispositivo";
+"localize.Currency" = "$";
+"localize.manual" = "manual";
+"localize.OK" = "OK";
+"localize.Cancel" = "Cancelar";
+"localize.NA" = "NA";
+"localize.MobileNumber" = "Número de celular";
+"localize.next" = "Siguiente";
+"localize.selectSource" = "Seleccionar fuente";
+"localize.camera" = "Camara";
+"localize.photoLibrary" = "Librería fotográfica";
+"localize.cannotMakeCallAtThisMoment" = "No puede hacer una llamada en este momento";
+"localize.couldnotOpenEmailAttheMoment" = "No se pudo abrir el correo electrónico en este momento.";
+"localize.areYouSureWantToLogout" = "¿Quieres cerrar sesión?";
+"localize.continueText" = "Continuar";
+"localize.enterMobileNumber" = "Ingresa el número de celular";
+"localize.inValidPhoneNumber" = "Ingresa el número de celular válido";
+"localize.enterOtp" = "ingresar código OTP";
+"localize.verficationCode" = "Código de verificación";
+"localize.verficationSentText" = "Por favor ingresa el código de verificación que te enviamos";
+"localize.turnOnShift" = "Conéctate para realizar entregas";
+"localize.shiftStatus" = "Estado de turno";
+"localize.startShift" = "Empezar turno";
+"localize.endShift" = "Finalizar turno";
+"localize.youOwned" = "Tus turnos";
+"localize.Profile" = "Perfil";
+"localize.noticeBoard" = "Tablero de anuncios";
+"localize.orderHistory" = "Historial de pedidos";
+"localize.termsAndConditions" = "Términos y Condiciones";
+"localize.logout" = "Cerrar sesión";
+"localize.liveTasks" = "Tareas en vivo";
+"localize.waitingForTheNewTask" = "Esperando una nueva tarea";
+"localize.newOrderRequest" = "Solicitud de nuevo pedido";
+"localize.accept" = "Aceptar";
+"localize.newTask"= "Nueva tarea";
+"localize.selectCountryCode" = "Seleccionar código de país";
+"localize.otpIncorrect" = "Código OTP incorrecto";
+"localize.couldNotReachTheHost" = "No se pudo conectar a la web.";
+"localize.amountTobePaid" = "Monto a pagar";
+"localize.handovertheAmount" = "Por favor retorna el monto del pedido";
+"localize.orders" = "Pedidos";
+"localize.order" = "Pedido";
+"localize.noOrders" = "Sin pedidos";
+"localize.breakString" = "Descanso";
+"localize.selectVehicle" = "Seleccione el vehículo para continuar..";
+"localize.novehicleList" = "No hay lista de vehículos";
+"localize.chooseVehicle" = "Elegir vehículo";
+"localize.selectVehicleNumber" = "Seleccionar el número del vehículo";
+"localize.enterTheVehicleNumber" = "Ingresa el número del vehículo";
+"localize.or" = "o";
+"localize.home" = "Home";
+"localize.noNotices" = "No hay anuncios";
+"localize.userId" = "ID de usuario";
+"localize.userName" = "Nombre de usuario";
+"localize.email" = "Correo electrónico";
+"localize.phoneNumber" = "Número de celular";
+"localize.update" = "Actualizar";
+"localize.enterName" = "Ingresa tu nombre";
+"localize.enterEmail" = "Ingresa tu correo electrónico";
+"localize.updatedSuccessfully" = "Perfil actualizado";
+"localize.NavigationshiftStatus" = "0";
+"localize.todayCompletedTasks" = "Tareas completadas hoy";
+"localize.noResult" = "No se han encontrado resultados";
+"localize.orderHistoryNavTitle" = "HISTORIAL DE PEDIDOS";
+"localize.termsandconditionNavTitle" = "TÉRMINOS Y CONDICIONES";

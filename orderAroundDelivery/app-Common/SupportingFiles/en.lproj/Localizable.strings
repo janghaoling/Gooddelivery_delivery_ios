@@ -1,0 +1,97 @@
+/* 
+  Localizable.strings
+  orderAroundDelivery
+
+  Created by CSS15 on 25/04/19.
+  Copyright © 2019 css. All rights reserved.
+*/
+
+"localize.startedTowardsRestaurant" = "STARTED TOWARDS RESTAURANT";
+"localize.disputeTitle" = "Are you sure you want to dispute this order?";
+"localize.dispute" = "Dispute";
+"localize.Cancel" = "Cancel";
+"localize.total" = "Total";
+"localize.reachedRestaurent" = "REACHED RESTAURANT";
+"localize.orderPickedUp" = "ORDER PICKED UP";
+"localize.orderDelivered" = "ORDER DELIVERED";
+"localize.completed" = "COMPLETED";
+"localize.sumbit" = "SUBMIT";
+"localize.newOrderRequest" = "New Order Request";
+"localize.waitingNewTask" = "WAITING FOR THE NEW TASK";
+"localize.cash" = "CASH";
+"localize.wallet" = "WALLET";
+"localize.paymentMode" = "Payment Mode";
+"localize.orderDeliveredSucess" = "Order Delivered Successfully";
+"localize.orderCancelled" = "Order Cancelled";
+"localize.home" = "HOME";
+"localize.ongoingRequest" = "Ongoing Request";
+"localize.liveTasks" = "LIVE TASKS";
+"localize.completedTask" = "Completed Tasks";
+"localize.Done" = "Done";
+"localize.Back" = "Back";
+
+"localize.noDevice" = "no device";
+"localize.Currency" = "$";
+"localize.manual" = "manual";
+"localize.OK" = "OK";
+"localize.Cancel" = "Cancel";
+"localize.NA" = "NA";
+"localize.MobileNumber" = "Mobile Number";
+"localize.next" = "Next";
+"localize.selectSource" = "Select Source";
+"localize.camera" = "Camera";
+"localize.photoLibrary" = "Photo Library";
+"localize.cannotMakeCallAtThisMoment" = "Cannot make call at this moment";
+"localize.couldnotOpenEmailAttheMoment" = "Could not open Email at the moment.";
+"localize.areYouSureWantToLogout" = "Are you want to logout?";
+"localize.continueText" = "Continue";
+"localize.enterMobileNumber" = "Enter Mobile Number";
+"localize.inValidPhoneNumber" = "Enter the valid Mobile number";
+"localize.enterOtp" = "Enter OTP";
+"localize.verficationCode" = "Verification Code";
+"localize.verficationSentText" = "Please enter the verification code sent to your";
+"localize.turnOnShift" = "Turn on Start Shift to go for delivery";
+"localize.shiftStatus" = "Shift Status";
+"localize.startShift" = "Start Shift";
+"localize.endShift" = "End Shift";
+"localize.youOwned" = "You Owned";
+"localize.Profile" = "Profile";
+"localize.noticeBoard" = "Notice Board";
+"localize.orderHistory" = "Order History";
+"localize.termsAndConditions" = "Terms and Conditions";
+"localize.logout" = "Logout";
+"localize.liveTasks" = "Live Tasks";
+"localize.waitingForTheNewTask" = "Waiting for the new Task";
+"localize.newOrderRequest" = "New Order Request";
+"localize.accept" = "Accept";
+"localize.newTask"= "New Task";
+"localize.selectCountryCode" = "Select Country Code";
+"localize.otpIncorrect" = "Incorrect OTP";
+"localize.couldNotReachTheHost" = "Could not reach the web";
+"localize.amountTobePaid" = "Amount to be Paid";
+"localize.handovertheAmount" = "Please handover the amount earned.";
+"localize.orders" = "Orders";
+"localize.order" = "Order";
+"localize.noOrders" = "No Orders";
+"localize.breakString" = "Break";
+"localize.selectVehicle" = "Select Vehicle to continue..";
+"localize.novehicleList" = "No vehicle List";
+"localize.chooseVehicle" = "Choose Vehicle";
+"localize.selectVehicleNumber" = "Select Vehicle Number";
+"localize.enterTheVehicleNumber" = "Enter the Vehicle Number";
+"localize.or" = "or";
+"localize.home" = "Home";
+"localize.noNotices" = "No Notices";
+"localize.userId" = "User Id";
+"localize.userName" = "UserName";
+"localize.email" = "Email";
+"localize.phoneNumber" = "Phone Number";
+"localize.update" = "Update";
+"localize.enterName" = "Enter Name";
+"localize.enterEmail" = "Enter Email";
+"localize.updatedSuccessfully" = "Profile Updated";
+"localize.NavigationshiftStatus" = "0";
+"localize.todayCompletedTasks" = "Today Completed Tasks";
+"localize.noResult" = "No Result Found";
+"localize.orderHistoryNavTitle" = "ORDER HISTORY";
+"localize.termsandconditionNavTitle" = "TERMS AND CONDITION";
